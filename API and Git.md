@@ -6,7 +6,7 @@ Application Programming Interface, aka APIs, simplifies software development by 
 
 API is a messenger that takes the request from one system to another and returns the response.
 
-![](RackMultipart20210926-4-1x7ni79_html_a0efcef00ced9156.png)
+![image](https://user-images.githubusercontent.com/91419307/134809224-6192632f-bc3c-465c-a7be-66c8f2cfeacc.png)
 
 It enables companies to share their applications&#39; data and functionalities with external third-party developers, business partners, and internal departments within their companies.
 
