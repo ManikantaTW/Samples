@@ -80,7 +80,7 @@ GitHub is a Git repository hosting service with GUI.
 
 Repositories hold folders along with files. Users can create a repo through GitHub and clone it to a local system.
 
-**Version control system**
+## Version control system
 
 Version control is a system that records changes to a file or set of files over time to recall specific versions later.
 
