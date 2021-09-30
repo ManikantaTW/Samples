@@ -42,7 +42,7 @@ Most of the API request and response happens through the internet.
 | **Internal APIs** | Private APIs | Required | Intend for internal users, hidden from external users |
 | **Composite APIs** || Required | Allows users to request multiple endpoints in a single call |
 
-# #API protocols
+## API protocols
 
 API protocols provide a set of rules to accepts the data exchange.
 
