@@ -31,7 +31,7 @@ API uses:
 - Flexible by allowing new business partners to use services.
 - Data security with API protocols.
 
-## Types of API
+## Types of APIs
 
 Most of the API request and response happens through the internet.
 
