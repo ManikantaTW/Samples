@@ -1,2 +1,2 @@
 # Samples
-Contains all my sample tech writings
+It contains all my sample tech writings
